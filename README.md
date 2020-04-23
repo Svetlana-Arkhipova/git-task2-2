@@ -13,7 +13,7 @@ JavaScript:
 
 Java (Maven):
 
-```java
+```xml
 <dependency>
   <groupId>neuro</groupId>
   <artifactId>sdk</artifactId>
